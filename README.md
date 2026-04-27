@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nightwing-77)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Nightwing-77&show_icons=true&include_all_commits=true)
+
 <!--
 **Nightwing-77/Nightwing-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
